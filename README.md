@@ -1,7 +1,7 @@
 # PSGDriveSync Application
 This application allows users to 
-- create secure passwords upto 2000 characters long for one time us.
-- create secure passwords upto 2000 characters long and have them added to local files called 'vaults' which are themselves encrypted with AES-256 encryption standard using a master password. 
+- Create secure passwords upto 2000 characters long for one time use where you get full control over the password generation process.
+- Create secure passwords upto 2000 characters long and have them added to local files called 'vaults' which are themselves encrypted with AES-256 encryption standard using a master password. 
 
 ## Prerequisite
 - Currently the application is only supported on Windows Operation System.
@@ -10,7 +10,7 @@ This application allows users to
 ## Features Of the Application
 ![PasswordGeneratorTab](https://parmeetsinghghai.github.io/psgpasswordmanager/assets/img/password.png)
 ### Strong Passwords
-Create strong and secure random passwords upto 2000 characters long.
+Generate Strong Password of Upto 2000 Characters Long where you get Full Control over how many Lower Case Characters, Upper Case Characters, Special Symbols and Numbers will be present in those Password(s).
 
 ![PasswordGeneratorTab](https://parmeetsinghghai.github.io/psgpasswordmanager/assets/img/encryption.png)
 ### AES-256 Encryption Based 'Vaults'
