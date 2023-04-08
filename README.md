@@ -1,7 +1,7 @@
 # PSGDriveSync Application
 This application allows users to 
-a) create secure passwords upto 2000 characters long for one time use 
-b) create secure passwords upto 2000 characters long and have them added to local files called 'vaults' which are themselves encrypted with AES-256 encryption standard using a master password. 
+- create secure passwords upto 2000 characters long for one time us.
+- create secure passwords upto 2000 characters long and have them added to local files called 'vaults' which are themselves encrypted with AES-256 encryption standard using a master password. 
 
 ## Prerequisite
 - Currently the application is only supported on Windows Operation System.
